@@ -3,7 +3,7 @@
   padding-bottom: 2.5rem;
 
   @mixin atSmall{
-    padding-bottom: 94px;
+    padding-left: 94px;
   }
 
   &__icon{
